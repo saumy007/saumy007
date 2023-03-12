@@ -1,10 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm Saumy Sharma</h1>
 
 <h3 align="center">Learning about Creative ways to implement AR and VR Technologies and Game Development</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://www.pinterest.com/pin/271201208789138987/](https://www.pinterest.com/pin/271201208789138987/)">
+<img align="left" alt="Coding" width="500" src="https://as1.ftcdn.net/v2/jpg/02/79/18/64/1000_F_279186484_qNVvLdJeMNxGNqwdVQejt4Jg1meT38rk.jpg">
 
-<img align="left" alt="Coding" width="400" src="[https://www.pinterest.com/pin/538532067945986595/](https://www.pinterest.com/pin/538532067945986595/)">
+<img align="right" alt="Coding" width="500" src="https://as1.ftcdn.net/v2/jpg/02/29/73/76/1000_F_229737620_zLYh8twC5b8GIY3k1YetOtFMlVSC9opz.jpg">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumy007&label=Profile%20views&color=0e75b6&style=flat" alt="saumy007" /> </p>
 

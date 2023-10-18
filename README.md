@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saumy Sharma</h1>
 
 <h3 align="center">Learning about Creative ways to implement AR and VR Technologies and Game Development</h3>
-<img align="left" alt="![Uploading mario-game.gif…]()">
+<img align="left" alt="Coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmario-game-super-mario-pokemon-metroid-gif-15769565&psig=AOvVaw3YtUPgNSZJ7owwMaonIx5w&ust=1697710901286000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID22ouw_4EDFQAAAAAdAAAAABAE">
 <img align="left" alt="Coding" width="500" src="https://as1.ftcdn.net/v2/jpg/02/79/18/64/1000_F_279186484_qNVvLdJeMNxGNqwdVQejt4Jg1meT38rk.jpg">
 
 

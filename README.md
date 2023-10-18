@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saumy Sharma</h1>
 
 <h3 align="center">Learning about Creative ways to implement AR and VR Technologies and Game Development</h3>
-![mario-game](https://github.com/saumy007/saumy007/assets/100237166/f6c45f4c-23d0-4622-a8c6-92ffe3ca921e)
+[mario-game](https://github.com/saumy007/saumy007/assets/100237166/768a445e-80dd-4949-a094-a188d9204498)
 
 
 <img align="left" alt="Coding" width="500" src="https://as1.ftcdn.net/v2/jpg/02/79/18/64/1000_F_279186484_qNVvLdJeMNxGNqwdVQejt4Jg1meT38rk.jpg">

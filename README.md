@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saumy Sharma</h1>
 
 <h3 align="center">Learning about Creative ways to implement XR and Robotics</h3>
-<img align="centre" alt="Coding" width="500" src="https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/ik-before.gif">
+<img align="centre" alt="Coding" width="500" src="https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/ik-before.gif">![ik-Improvements](https://github.com/user-attachments/assets/9f6f6a66-336e-4898-b489-101549ee590b)
+
 
 ![mario-game](https://github.com/saumy007/saumy007/assets/100237166/d01a89fc-9756-453d-8eca-0308c295fd5d)
 

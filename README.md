@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saumy Sharma</h1>
 
 <h3 align="center">Learning about Creative ways to implement XR and Robotics</h3>
-<img align="centre" alt="Coding" width="500" src="https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/ik-before.gif">![ik-Improvements](https://github.com/user-attachments/assets/9f6f6a66-336e-4898-b489-101549ee590b)
+<img align="centre" alt="Coding" width="500" src="https://developer-blogs.nvidia.com/wp-content/uploads/2025/09/ik-before.gif">
 
 
 ![mario-game](https://github.com/saumy007/saumy007/assets/100237166/d01a89fc-9756-453d-8eca-0308c295fd5d)
@@ -17,8 +17,7 @@
 <p align="left"> <a href="https://twitter.com/bad_casm" target="blank"><img src="https://img.shields.io/twitter/follow/bad_casm?logo=twitter&style=for-the-badge" alt="bad_casm" /></a> </p>
 
 - 🌱 I’m currently learning **C++**
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/saumy.create/](https://www.instagram.com/saumy.create/)
-- 💬 Ask me about **C++, Unity engine, AR VR, SparkAR, Game Development, UI/UX,**
+- 💬 Ask me about **C++,Python, Nvidia Omniverse,Robotics, Simulation, Unity engine, XR**
 - 📫 How to reach me **saumysharma007@gmail.com**
 - ⚡ Fun fact **Talk about Startups and Personal Growth**
 
